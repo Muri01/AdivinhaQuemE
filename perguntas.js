@@ -5,14 +5,6 @@ const numeroAleatorio = Math.floor(Math.random() * 48) + 1;
 console.log(numeroAleatorio);
 
 criaCartao(
-    '0',
-    'Personagem secreto',
-    nomes[numeroAleatorio],
-    'secreto.png',
-    figuras[numeroAleatorio],
-    'secreto'
- )
-criaCartao(
     '1',
     'Adelha',
     'descartado',
